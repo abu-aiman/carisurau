@@ -71,3 +71,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [stars-url]: https://github.com/farhan-helmy/ratemysurau/stargazers
 [issues-shield]: https://img.shields.io/github/issues/farhan-helmy/ratemysurau.svg?style=for-the-badge
 [issues-url]: https://github.com/farhan-helmy/ratemysurau/issues
+
+
+<!-- Just another edit -->
